@@ -48,9 +48,3 @@ const uploadDataToAlgolia = async () => {
 }
 
 uploadDataToAlgolia();
-
-/*
-// used to check search
-index.search('Amazon').then(({ hits }) => {
-    console.log(hits[0]);
-});*/
