@@ -1,10 +1,10 @@
 {
-  "name": "algolia-take-home",
+  "name": "algolia-take-home-upload",
   "version": "1.0.0",
-  "description": "node.js project for the algolia take home exercise",
+  "description": "node.js project for the algolia take home upload exercise",
   "main": "index.js",
   "scripts": {
-    "upload": "node index.js"
+    "start": ""
   },
   "repository": {
     "type": "git",
