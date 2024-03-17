@@ -4,8 +4,7 @@
   "description": "node.js project for the algolia take home exercise",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "start": "node index.js"
+    "upload": "node index.js"
   },
   "repository": {
     "type": "git",
