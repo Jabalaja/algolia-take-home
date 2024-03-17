@@ -40,6 +40,7 @@ const uploadDataToAlgolia = async () => {
         .saveObjects(algoliaPayload)
         // Wait for the indexing task to complete
         // https://www.algolia.com/doc/api-reference/api-methods/wait-task/
+        // Not actually needed but gives a response in console that the upload was successful
         .wait()
         .then((response) => {
             console.log(response);
