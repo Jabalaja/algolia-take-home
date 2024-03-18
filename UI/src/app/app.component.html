@@ -56,15 +56,6 @@
             ></ais-hierarchical-menu>
           </ais-panel>
 
-          <ais-panel header="Brands">
-            <ais-refinement-list
-              attribute="brand"
-              [searchable]="true"
-              searchPlaceholder="Search for brands…"
-            >
-            </ais-refinement-list>
-          </ais-panel>
-
           <ais-panel header="Price">
             <ais-range-slider
               attribute="price"
@@ -84,6 +75,22 @@
 
           <ais-panel header="Ratings">
             <app-rating-menu attribute="rating"></app-rating-menu>
+          </ais-panel><ais-panel header="Brands">
+            <ais-refinement-list
+              attribute="brand"
+              [searchable]="true"
+              searchPlaceholder="Search for brands…"
+            >
+            </ais-refinement-list>
+          </ais-panel>
+
+          <ais-panel header="Product Type">
+            <ais-refinement-list
+              attribute="type"
+              [searchable]="true"
+              searchPlaceholder="Find a product type…"
+            >
+            </ais-refinement-list>
           </ais-panel>
         </div>
       </section>

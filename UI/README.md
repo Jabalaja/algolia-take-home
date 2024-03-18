@@ -1,12 +1,11 @@
-# UI part for the Algolia Take Home
+# UI demo
 
-I used the
+This demo was taken from the [Algolia doc-code-samples repository](https://github.com/algolia/doc-code-samples).
+The installation and run instruction have been almost entirely kept. Only the paths have been updated to fit this repository.
 
-# Angular Instantsearch e-commerce sample
+# Angular InstantSearch demo
 
-[![Edit e-commerce](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/algolia/doc-code-samples/tree/master/angular-instantsearch/e-commerce)
-
-Also available in [InstantSearch.js](../../instantsearch.js/e-commerce/), [React InstantSearch](../../react-instantsearch/e-commerce/) and [Vue InstantSearch](../../vue-instantsearch/e-commerce/)
+[![Edit UI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/Jabalaja/algolia-take-home)
 
 ---
 
@@ -24,20 +23,20 @@ This sample showcase the following features:
 
 ## Demo
 
-[Access the demo](https://codesandbox.io/s/github/algolia/doc-code-samples/tree/master/angular-instantsearch/e-commerce)
+[Access the public demo](https://codesandbox.io/s/github/algolia/doc-code-samples/tree/master/angular-instantsearch/e-commerce)
 
 ## How to run this sample locally
 
 ### 1. Clone this repository
 
 ```
-git clone git@github.com:algolia/doc-code-samples.git
+git clone git@github.com:Jabalaja/algolia-take-home.git
 ```
 
-### 2. Navigate to this sample folder
+### 2. Navigate to this folder
 
 ```
-cd angular-instantsearch/e-commerce
+cd platform_config/upload_data
 ```
 
 ### 3. Install the dependencies and run the server
