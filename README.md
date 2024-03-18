@@ -22,3 +22,4 @@ See the READMEs in the respective folders for installation and run instructions 
   - Since there was no information about the customers desired frontend integration, I went with an Angular example as it looked a bit nicer than the plain InstantSearch.js example from the onboarding folder
 - I kept the Algolia branding as I don't know which customer/brand I'm dealing with right now so modifying a perfectly fine UI would have been a waste of efforts. For other customers, I would rebrand the demo so they would feel more "at home"
 - I modified the UI a bit and added a new refinement (types) to show my ability to add custom attributes specific to the customer
+- Very basic click and conversion events were added. Click is tracked with any click on a product tile, conversion when clicking "buy"
